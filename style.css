@@ -1,0 +1,20 @@
+.incredients {
+    background-color: rgb(224, 247, 241);
+}
+.cake {
+    list-style-type: square;
+    background-color: lightblue;
+}
+.topping {
+    list-style-type: circle;
+    background-color: lightgreen;
+}
+.feather-icing {
+    background-color: orange;
+}
+span {
+    color: red;
+}
+em {
+    color: lightskyblue;
+}
